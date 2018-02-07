@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geometry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geometry.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
